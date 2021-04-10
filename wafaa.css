@@ -1,0 +1,42 @@
+
+#sumary{
+	background-color:#ead9c7;
+	font-family:courier ;
+	
+
+}
+	
+	#fullname{
+		
+		font-size:300%;
+	}
+	
+	.bodycontant{
+		
+  text-align: center;
+
+	}
+	
+	.resum{
+		
+		position:fixed;
+        top:0;
+        left:0;
+		background-color: #e7e7e7;
+		color: black;
+		
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size:.8vw;
+  width:15%;
+  height:5%;		
+	}
+	
+	.edu1{
+		color:black;
+		background-color:White;
+		font-size:2.5vw;
+		
+	}
